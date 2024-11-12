@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -72,6 +73,8 @@ web_modules/
 # Yarn Integrity file
 .yarn-integrity
 
+=======
+>>>>>>> init
 # dotenv environment variable files
 .env
 .env.development.local
@@ -79,6 +82,7 @@ web_modules/
 .env.production.local
 .env.local
 
+<<<<<<< HEAD
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
@@ -128,3 +132,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+# Fresh build directory
+_fresh/
+# npm dependencies
+node_modules/
+>>>>>>> init
